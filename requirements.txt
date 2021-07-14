@@ -2,8 +2,7 @@ pandas
 numpy==1.18.5
 tensorflow
 keras
-flask
+fastapi
 joblib
 sklearn
-gevent
-requests
+janitor
