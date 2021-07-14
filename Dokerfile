@@ -11,6 +11,6 @@ COPY ohe_data /app
 COPY ohe1_data /app
 COPY qt_data /app
 
-#ENV FLASK_DEBUG=1
+#fastapi
 
 CMD ["python", "app.py"]
