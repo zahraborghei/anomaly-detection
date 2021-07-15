@@ -15,4 +15,4 @@ COPY qt1_data /app
 
 #fastapi
 
-CMD ["python", "app.py"]
+CMD ["python", "anomaly_app.py"]
