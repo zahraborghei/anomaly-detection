@@ -10,6 +10,8 @@ COPY scaler_data /app
 COPY ohe_data /app
 COPY ohe1_data /app
 COPY qt_data /app
+COPY qt1_data /app
+
 
 #fastapi
 
